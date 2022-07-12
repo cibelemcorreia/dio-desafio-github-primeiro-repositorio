@@ -1,0 +1,47 @@
+O computador não opera sozinho
+Ele precisa de instruções detalhadas
+
+Processamento de Dados: o computador recebe, manipula, armazena e processa os dados.
+
+Processo de resolução de problemas "step by step", utilizando instruções:
+- O que precisa ser feito?
+- Qual a ordem de execução?
+
+Desenvolvimento do Programa
+Análise: estudo e definição dos dados de entrada e saída
+Algoritmo: descreve o problema por meio de ferramentas narrativas, fluxograma ou pseudocódigo
+Codificação: o algoritmo é codificado de acordo com a linguagem de programação escolhida
+
+Sequência de passos com objetivo definido
+Execução de tarefas específicas
+Conjunto de operações que resultam em uma sucessão finita de ações
+Exemplos:
+1. Preparar um sanduíche
+2. Trocar uma lâmpada
+3. Trajeto ao trabalho
+4. Fazer uma receita de bolo
+
+São instruções executadas passo a passo para concluir a tarefa
+
+Como construir um algoritmo?
+- Compreensão do problema (quais são os pontos + importantes)
+- Definição dados de entrada (dados fornecidos e cenário)
+- Definir processamento (cálculos e restrições)
+- Definir dados de saída (após processamento)
+- Utilizar um método de construção (construção e refinamento do algoritmo)
+- Teste e diagnóstico
+
+Construção:
+
+Narrativa
+	- Sem conceitos novos
+	- Utilização da linguagem natural
+	- Diversas interpretações possíveis
+Fluxograma
+	- Simples entendimento
+	- Utilização de símbolos pré-definidos
+	- Conhecimento prévio da estrutura e símbolos
+Pseudocódigo
+	- Regras definidas
+	- Portugol
+	- Passos a serem seguidos

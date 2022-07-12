@@ -1,0 +1,41 @@
+A decomposição é o primeiro passo da resolução de problemas dentro do conceito de pensamento computacional.
+
+"Dado um problema complexo, devemos quebrá-lo em problemas menores. Portanto, problemas mais fáceis e gerenciáveis."
+
+Estratégias:
+Análise: processo de quebrar e determinar partes menores e gerenciáveis;
+Síntese: combinar os elementos recompondo o problema original;
+Ordem de execução de tarefas menores: sequencial (dependência entre tarefas, executadas em fila) ou paralelo (tarefas podem ser executadas concomitantemente).
+
+Como decompor?
+
+- identificar ou coletar dados 
+- agregar os dados
+- funcionalidade (resolução)
+
+Exemplos:
+
+1 - Cozinhar
+- Identificar os ingredientes
+- Determinar as etapas (sequencial ou paralelo)
+- executar cada etapa
+- agregar os ingredientes para finalizar (recompor com coerência)
+
+2- Funcionamento de uma bike
+- Identificar os componentes
+- Papel de cada componente
+-  Interdependência das peças
+
+3 - Criar um app
+Definição de componentes de etapas:
+- Finalidade
+- Interface
+- Funcionalidade
+- Pré-requisitos
+
+4 - Artigo
+Definição de componentes de etapas:
+- O que será abordado?
+- Estrutura
+- Conteúdo de cada tópico
+- Textos de conexão

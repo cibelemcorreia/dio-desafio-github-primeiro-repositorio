@@ -1,0 +1,23 @@
+Técnicas seguem a lógica e determinam as instruções.
+
+Técnica Linear (Associada à matemática)
+Modelos de desenvolvimento e resolução
+- Modelo tradicional
+- Não tem vínculo (?)
+            Estrutura hierárquica
+            Programação de computadores        
+- Possui execução sequenciada
+- Ordenação de elementos por uma única propriedade
+- Recursos limitados
+- Única dimensão
+
+Técnica Estruturada 
+Modelos de desenvolvimento e resolução
+
+Organização, disposição e ordem dos elementos essenciais que compõem um corpo (concreto ou abstrato)
+
+Técnica Modular
+Modelos de desenvolvimento e resolução
+
+Desenvolvimento de rotinas através de módulos
+Partes independentes controladas por um conjunto de regras

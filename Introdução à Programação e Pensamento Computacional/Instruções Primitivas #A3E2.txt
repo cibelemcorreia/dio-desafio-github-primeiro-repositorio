@@ -1,0 +1,1 @@
+Instruções primitivas são linguagem de palavras-chave (vocabulário) de uma determinada programação que tem por finalidade comandar um computador que irá tratar os dados.

@@ -1,0 +1,6 @@
+A lógica vem para auxiliar na resolução de um problema.
+
+Problema: "é uma questão que foge a uma determinada regra, ou melhor, é um desvio de percurso, o qual impede de atingir um objetivo com eficiência e eficácia."
+Lógica: "parte da filosofia que trata das formas do pensamento em geral (dedução, indução, hipótese, inferência etc) e das operações intelectuais que visam à determinação do que é verdadeiro ou não."
+
+Em computação, a lógica é a "organização e planejamento das instruções, assertivas em um algoritmo, a  fim de viabilizar a implantação de um programa."

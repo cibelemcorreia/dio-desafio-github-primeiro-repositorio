@@ -1,0 +1,30 @@
+Tipos de dados:
+1. Numéricos (Inteiro, sem casas decimais 0 , 1, 5, 50 e Reais, com casas decimais 5.95, 9,54)
+2. Caracteres (Letras e símbolos)
+3. Lógicos (Booleano: Verdadeiro e Falso)
+
+O que é uma variável?
+- Estrutura mutável
+- Possui variações
+- Incerto
+- Inconstante
+- Instável
+
+A variável pode assumir qualquer um dos valores de um determinado conjunto de valores.
+
+Regras
+- Atribuição de um ou mais caracteres
+- Primeira letra - não número
+- Sem espaços em branco
+- Vedado: utilização de palavras reservadas de determinada linguagem de programação
+- Caracteres e números
+
+Papéis de uma variável: 
+Ação: modificação de estado
+Controle: vigiada, controle
+
+O que é uma constante?
+- Tudo aquilo que é fixo ou estável
+- Invariável
+- Inalterável
+- O que não muda

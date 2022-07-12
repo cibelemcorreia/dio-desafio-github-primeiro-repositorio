@@ -1,0 +1,8 @@
+VETOR 
+É uma sequência de tipos de dados.
+
+Definição formal: "Um vetor é caracterizado por uma variável dimensionada com tamanho pré-fixado."
+Sinônimos: container, matriz unidimensional
+
+MATRIZ
+"Matriz é uma tabela organizada em linhas e colunas no formato m x n, onde m representa o número de linhas (horizontal) e n o número de colunas (vertical)"

@@ -1,0 +1,28 @@
+Legibilidade ("Estado que é legível")
+• Facilidade de leitura
+• Compreensão
+• Ortogonalidade (Coerência nas instruções)
+• Definição adequada das estruturas
+
+Redigibilidade (Facilidade de escrita de código)
+Pode conflitar com a legibilidade
+• Ortogonalidade
+• Simplicidade da escrita
+• Suporte à abstração
+• Reuso do código
+• Expressividade
+
+Confiabilidade (Confiável ao que o código foi programado pra fazer)
+Possui:
+• Verificação de tipos
+• Trata exceções
+• Uso de ponteiros
+• Compatibilidade entre compiladores
+
+Custo (Análise de impacto)
+Possui:
+• Treinamento
+• Codificação
+• Compilação
+• Execução
+• Infra-estrutura

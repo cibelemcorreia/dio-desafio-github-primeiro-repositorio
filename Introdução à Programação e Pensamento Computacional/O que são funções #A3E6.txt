@@ -1,0 +1,7 @@
+As funções, ou sub-rotinas são blocos de instruções que realizam tarefas específicas.
+
+São trechos de código com tarefas específicas, que podem ser chamados dentro do código principal.
+
+Vem da ideia de decomposição do algoritmo, modularização do problema, tornar o algoritmo mais legível, com reaproveitamento de código.
+
+Com a modularização do programa, o código fica mais claro e conciso e reutiliza instruções.

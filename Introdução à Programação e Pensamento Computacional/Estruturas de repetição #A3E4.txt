@@ -1,0 +1,5 @@
+As estruturas de repetição são úteis, por exemplo, para repetir uma série de operações semelhantes que são executadas para todos os elementos de uma lista ou de uma tabela de dados, ou simplesmente para repetir um mesmo processamento até que uma certa condição seja satisfeita.
+
+Condições de Parada (Para que não entre em loop infinito) 
+- Número de repetições pré-fixada
+- Condição a ser satisfeita

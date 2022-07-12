@@ -1,0 +1,8 @@
+Estão atreladas ao pensamento computacional:
+
+1. Raciocínio lógico: é uma forma de pensamento estruturado, ou raciocínio, que permite encontrar a conclusão ou determinar a resolução do problema. Classificações:
+- Indução: leis e teorias (empirismo, experimentação)
+- Dedução: o inverso da indução, previsões e explicações (precisa provar)
+- Abdução: a partir de uma conclusão tira a premissa 
+
+2. Aperfeiçoamento: melhoramento, refinamento, aprimoramento, ou seja, melhorar o  uso de recursos encontrando soluções eficientes e otimizando processos; e, melhorar códigos e algoritmos, simplificando linhas de códigos e definindo bem as funções.

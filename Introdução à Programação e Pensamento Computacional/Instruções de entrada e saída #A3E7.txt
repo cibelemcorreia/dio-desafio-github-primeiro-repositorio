@@ -1,0 +1,5 @@
+Dado que tenho um conjunto de dados, o objetivo do computador é armazenar, processar e tratar os dados, para que ele exprima os resultados.
+
+Instruções de entrada: consiste na inserção e recebimento de dados do mundo real por meio de ação de alguma interface, seja teclado, mouse, arquivos, entre outros.
+
+Instruções de saída: consiste na impressão dos dados do mundo abstrato, digital por meio de ação de alguma interface. Os formatos podem variar desde simples arquivos binários até complexas querys de banco de dados.

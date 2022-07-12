@@ -1,0 +1,53 @@
+Reconhecimento de Padrões
+- Modelo base
+- Estrutura invariante
+- Repetição
+
+Detectar as similaridades e diferenças.
+
+Exemplos:
+
+1 - Fotos de redes sociais: compressão - salvar no servidor de dados (Processo utilizado por plataformas diferentes)
+2 - Compressão de dados (Compressão por reconhecimento de padrões)
+
+Por que determinar padrões?
+Generalizar, com o objetivo de obter resolução para problemas diferentes. Para desenvolver um algoritmo, posteriomente.
+
+Como determinar padrões?
+- Categorias
+- Classes
+Por tipo de mídias, e dependem do domínio.
+
+Pelo ser humano:
+- Grau de similaridade
+- Grupos conhecidos x objeto desconhecido
+
+Pelo computador:
+- Comparação
+
+Como simular este comportamento?
+
+Representação de atributos
+
+Aprendizado - conceito associado ao objeto
+
+Armazenar dados
+
+Regras de decisão
+
+Em resumo ...
+Abordagem: extração de características e classificação de dados
+E consegue utilizar diferentes métodos e aplicações
+
+Exemplos de aplicações que utilizam o reconhecimento de padrões:
+- Classificação de dados (padrão de comportamento em uma rede)
+- Reconhecimento de imagem (placa de carro)
+- Reconhecimento de fala (idioma)
+- Análise de cenas
+- Classificação de documentos
+
+Áreas do conhecimento dentro da computação que utilizam o reconhecimento de padrões:
+- Redes Neurais
+- Machine Learning
+- Inteligência Artificial
+- Ciência de Dados

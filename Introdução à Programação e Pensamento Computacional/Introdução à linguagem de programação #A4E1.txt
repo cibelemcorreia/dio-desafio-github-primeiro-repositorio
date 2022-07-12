@@ -1,0 +1,28 @@
+Por que falar de história da computação?
+Compreender as dificuldades enfrentadas;
+• Fundamentos da computação;
+• O processo de pensamento.
+
+Breve histórico
+3 mil A.C. Primeiro dispositivo de cálculo (ábaco)
+1820 Instrumentos computacionais (aritmômetro, dispositivo que possuía apenas as 4 operações matemáticas)
+1837 Charles Babbage definiu o conceito de software
+1842 - 43 Transcrição  de Ada Lovelace (ela fez um manuscrito com as anotações de Charles Babbage e determinou instruções que validariam as ideias de Charles) (Mãe da Programação)
+1940 Alan Turing: realizou a descriptação de mensagens do inimigo durante a 2ª Guerra Mundial, definiu o conceito de algoritmo e de inteligência artificial (Pai da computação e da inteligência artificial)
+1939 - 1945  2ª Guerra Mundial: investimento massivo em tecnologia
+1948 Claude Shannon vê uma nova aplicabilidade da álgebra booleana (Base dos computadores atuais)
+1949 Primeira linguagem de máquina (Assembly)
+Anos 50 Primeiras linguagens de programação (Cobol, Fortran, Lisp)
+Entre 60 e 70 Surgimento da linguagem C, Prolog e Machine Learning
+Anos 90 Surgimento das linguagens: Python, Ruby, Java, C# e JS
+1980 Herman Hollerith criou uma máquina de tabular, posteriormente lançou a IBM
+1975 Criação do Intel 8080 / Linguagem basic - Microsoft
+1976 Apple
+1980 Apple III
+1983 Lisa - fracasso da Apple
+1985 Windows 1.0
+1988 Windows 2000
+2001 Windows XP
+
+O que é uma linguagem de programação?
+Método padronizado composto por um conjunto de regras sintáticas e semânticas de implementação de um código fonte (conjunto de palavras com regras).
